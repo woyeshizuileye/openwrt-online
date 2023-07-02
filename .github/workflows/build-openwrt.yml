@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/woyeshizuileye/test/tree/master
+  REPO_URL: https://github.com/woyeshizuileye/test
   REPO_TAGS: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
